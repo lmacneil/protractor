@@ -9,5 +9,6 @@ chromedriver.log
 libpeerconnection.log
 xmloutput*
 npm-debug.log
-
+.idea/
+*.iml
 *.swp
